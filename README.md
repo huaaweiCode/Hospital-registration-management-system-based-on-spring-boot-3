@@ -57,3 +57,8 @@
 
 ![医生-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208132014372.jpg)
 
+### 获取方式&视频演示
+
+下方扫一下，回复关键词：医院
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
